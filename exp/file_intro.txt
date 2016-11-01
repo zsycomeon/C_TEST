@@ -1,0 +1,15 @@
+FILE. write,read,get,put,getline,readline,open,|,binary,hex,eof
+
+
+
+
+string s;
+ifstream input("xx.xx");
+ofstream output("xx.xx")
+//从输入流逐行获取字符串 
+while(getline(input,s))
+	output<<s<<"\n"<<endl;
+
+//输入输出一个字符	
+cout.put("a")
+cin.get(a)	
